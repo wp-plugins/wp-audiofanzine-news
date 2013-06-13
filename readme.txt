@@ -25,6 +25,16 @@ Check out www.audiofanzine.com and www.bordasmedia.com to get more information.
 3. Edit widget options in 'Appearance > Widgets'
 4. See Audiofanzine's last news on your own website !
 
+== Screenshots ==
+
+1. View in "Appearance > Widget" menu
+
+2. Widget's settings
+
+3. View in the sidebar
+
+4. Widget in Twenty Eleven
+
 == Changelog ==
 
 = 1.0 =
