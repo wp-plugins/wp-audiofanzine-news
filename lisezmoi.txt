@@ -1,0 +1,33 @@
+=== WP Audiofanzine News ===
+
+Contributeurs : Audiofanzine
+Mots-clés : audiofanzine, news, rss, feed, music, studio, homestudio, headphones, guitar, computers, drum, percussions, electronic, instruments, bass, live sound, lighting
+Nécessite au moins : 2.6.8
+Testé jusqu'à : 3.5.1
+License : GPLv2 or later
+License URI : http://www.gnu.org/licenses/gpl-2.0.html
+
+Affiche les dernières news d'Audiofanzine dans votre sidebar.
+
+== Description ==
+
+Ce widget vous permet d'afficher sur votre site Wordpress les dernières actualités sur les instruments de musique et le matériel audio news proposées par Audiofanzine.
+
+Notez que vous pouvez filtrer les actualités en fonction du sujet qui vous intéresse le plus : Studio / Homestudio, Guitare, MAO, Batterie, Instruments électroniques, Basse, Sono ou Éclairage. Et parce qu'Audiofanzine est un site multilingue, vous pouvez également choisir la langue dans laquelle s'afficheront les news, à choisir entre français, anglais, allemand, espagnol, italien et japonais.
+
+À propos d'Audiofanzine
+Créé en 2000, Audiofanzine est le seul site multi-specialisé, multilingue et multi-contenu dédié à l'industrie de la musique et de l'audio. Avec plus de 700 000 membres dans le monde, il est aujourd'hui une référence mondiale en matière de contenu éditorial ou communautaire sur ces sujets.
+
+Pour plus d'informations visitez www.audiofanzine.com et www.bordasmedia.com.
+
+== Installation ==
+
+1. Déposez le dossier 'wpafnews' dans votre répertoire '/wp-content/plugins/'
+2. Activez le plugin dans le menu 'Extensions' de Wordpress
+3. Modifier les options du widget dans le menu 'Apparence > Widgets'
+4. Regardez les dernière news d'Audiofanzine sur votre propre site !
+
+== Changelog ==
+
+= 1.0 =
+* Première version
