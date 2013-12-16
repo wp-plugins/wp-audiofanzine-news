@@ -3,7 +3,7 @@
 Contributeurs : Audiofanzine
 Mots-clés : audiofanzine, news, rss, feed, music, studio, homestudio, headphones, guitar, computers, drum, percussions, electronic, instruments, bass, live sound, lighting
 Nécessite au moins : 2.6.8
-Testé jusqu'à : 3.5.1
+Testé jusqu'à : 3.8
 License : GPLv2 or later
 License URI : http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,6 +28,9 @@ Pour plus d'informations visitez www.audiofanzine.com et www.bordasmedia.com.
 4. Regardez les dernière news d'Audiofanzine sur votre propre site !
 
 == Changelog ==
+
+= 1.0.1 =
+* Problèmes d'encodage réglés
 
 = 1.0 =
 * Première version

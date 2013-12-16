@@ -3,7 +3,7 @@
 Contributors: Audiofanzine
 Tags: audiofanzine, news, rss, feed, music, studio, homestudio, headphones, guitar, computers, drum, percussions, electronic, instruments, bass, live sound, lighting
 Requires at least: 2.6.8
-Tested up to: 3.5.1
+Tested up to: 3.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,6 +36,9 @@ Check out www.audiofanzine.com and www.bordasmedia.com to get more information.
 4. Widget in Twenty Eleven
 
 == Changelog ==
+
+= 1.0.1 =
+* Fix encoding issues
 
 = 1.0 =
 * First version fixed

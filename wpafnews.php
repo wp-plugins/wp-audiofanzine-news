@@ -3,7 +3,7 @@
 Plugin Name: WP Audiofanzine News
 Plugin URI: http://www.audiofanzine.com
 Description: Affiche les dernières news d'Audiofanzine dans votre sidebar.
-Version: 1.0
+Version: 1.0.1
 Author: Bordas Media
 Author URI: http://audiofanzine.com
 */
