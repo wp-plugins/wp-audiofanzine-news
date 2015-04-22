@@ -3,7 +3,7 @@
 Contributors: Audiofanzine
 Tags: audiofanzine, news, rss, feed, music, studio, homestudio, headphones, guitar, computers, drum, percussions, electronic, instruments, bass, live sound, lighting
 Requires at least: 2.6.8
-Tested up to: 4.0
+Tested up to: 4.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
